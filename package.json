@@ -1,5 +1,5 @@
 {
-  "name": "speex.js",
+  "name": "speex",
   "version": "1.2.0",
   "description": "Speex Codec in Javascript. Ported speex-1.2.0RC using emscripten tool.",
   "main": "index.js",
